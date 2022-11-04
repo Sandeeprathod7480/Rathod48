@@ -1,0 +1,2 @@
+Note:Token generation: Go to signup-->setting-->Select developer settings-->Click personal access token--->click generate new token--->Enter Note(anything)
+---->select "No expiration" from Expiration dropdown----->select repo checkbox---->Click generate token
